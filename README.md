@@ -57,7 +57,7 @@ will eventually take up the maximum stack call resulting in a **Stack Overflow**
 
 >   
 #### Now that we have a swift idea of what the call stack is and keeping in mind it's duties
-#### Great,now back to Recursion:
+#### Let's get back to Recursion:
 ![](https://pics.me.me/thumb_now-lets-see-who-you-really-are-recursion-now-lets-44360522.png)
 
 #### What is it?
