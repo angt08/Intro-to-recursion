@@ -149,10 +149,11 @@ Now some more examples of this phenomenon
 
 Still don't full understand? that's okay, even most seasoned programmers 
 have difficulty wrapping their heads around recursive functions,
-just ask them
-in the meantime check these out. 
+just ask them.
+In the meantime check these  links out. 
 >
 [Recursion video 13min](https://youtu.be/6oDQaB2one8)
+[]()
 >
 
 </summary>   
