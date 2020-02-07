@@ -32,12 +32,11 @@
   ```
 
  >
- If you do run this code example, this is the error message you will encounter:  
- > ![](https://i.imgur.com/IRRQr5F.png?1)
+ If you do run this code example, you will encounter this error known as **Stack Overflow**:  
+ >![](https://i.imgur.com/IRRQr5F.png?1)
+ 
  >
- This error is what's known as **Stack Overflow**
- >
-#### WAIT! 
+
 ![](https://media.giphy.com/media/xULW8MYvpNOfMXfDH2/giphy.gif)
 #### Before we dive into Recursion let's first define the Call Stack
  >
@@ -180,4 +179,3 @@ In the meantime check these out.
 </details>
 
 ### What du heck
-
